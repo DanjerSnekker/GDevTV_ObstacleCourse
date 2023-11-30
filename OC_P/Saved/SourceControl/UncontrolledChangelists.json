@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/farha/Desktop/SnekStuff/GameDev/My Projects/GameDevTV/GDevTV_ObsCourse/OC_P/Content/Main.umap",
+				"C:/Users/farha/Desktop/SnekStuff/GameDev/My Projects/GameDevTV/GDevTV_ObsCourse/OC_P/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/farha/Desktop/SnekStuff/GameDev/My Projects/GameDevTV/GDevTV_ObsCourse/OC_P/Content/SCK_Casual01/Blueprints/3PMC_BP.uasset",
+				"C:/Users/farha/Desktop/SnekStuff/GameDev/My Projects/GameDevTV/GDevTV_ObsCourse/OC_P/Content/Characters/BP_3PMC.uasset"
+			]
+		}
+	]
+}
