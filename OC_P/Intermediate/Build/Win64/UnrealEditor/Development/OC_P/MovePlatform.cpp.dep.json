@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\farha\\desktop\\snekstuff\\gamedev\\my projects\\gamedevtv\\gdevtv_obscourse\\oc_p\\source\\oc_p\\moveplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\farha\\desktop\\snekstuff\\gamedev\\my projects\\gamedevtv\\gdevtv_obscourse\\oc_p\\intermediate\\build\\win64\\oc_peditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\farha\\desktop\\snekstuff\\gamedev\\my projects\\gamedevtv\\gdevtv_obscourse\\oc_p\\intermediate\\build\\win64\\unrealeditor\\development\\oc_p\\definitions.oc_p.h",
+            "c:\\users\\farha\\desktop\\snekstuff\\gamedev\\my projects\\gamedevtv\\gdevtv_obscourse\\oc_p\\source\\oc_p\\moveplatform.h",
+            "c:\\users\\farha\\desktop\\snekstuff\\gamedev\\my projects\\gamedevtv\\gdevtv_obscourse\\oc_p\\intermediate\\build\\win64\\unrealeditor\\inc\\oc_p\\uht\\moveplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

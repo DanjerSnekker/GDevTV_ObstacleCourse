@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OC_P",
+			"Path": "C:\\Users\\farha\\Desktop\\SnekStuff\\GameDev\\My Projects\\GameDevTV\\GDevTV_ObsCourse\\OC_P\\Source\\OC_P.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OC_PEditor",
+			"Path": "C:\\Users\\farha\\Desktop\\SnekStuff\\GameDev\\My Projects\\GameDevTV\\GDevTV_ObsCourse\\OC_P\\Source\\OC_PEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
