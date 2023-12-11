@@ -27,6 +27,28 @@ public:
 	UPROPERTY(EditAnywhere)
 	int32 MyInt = 99;
 
+	//Int Addition
+	UPROPERTY(EditAnywhere)
+	int32 InputA = 0;
+
+	UPROPERTY(EditAnywhere)
+	int32 InputB = 0;
+
+	UPROPERTY(EditAnywhere)
+	int32 Result = 0;
+	//Int Addition
+
+	//Float Addition
+	UPROPERTY(EditAnywhere)
+	float FloatA = 0;
+
+	UPROPERTY(EditAnywhere)
+	float FloatB = 0;
+
+	UPROPERTY(EditAnywhere)
+	float FloatSum = 0;
+	//Float Addition
+
 	UPROPERTY(EditAnywhere)
 	float MyFloat = 9.9;
 };
