@@ -15,12 +15,10 @@ AMovePlatform::AMovePlatform()
 void AMovePlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	MyInt = 9;
 
-	Result = InputA + InputB;
+	MyVector = FVector(TestX, TestY, TestZ);
 
-	FloatSum = FloatA + FloatB;
+	SetActorLocation(MyVector);
 }
 
 // Called every frame
